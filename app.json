@@ -11,23 +11,23 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "value": "5055887551:AAFwC9Ya0Kax76LQPLl0gyHesHpDyxgqiG8"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "2019435633"
+      "value": "-1001697326651"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "7615574"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "0be767e469521e53aefc225fb93b4057"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-100"
+      "value": "-1001697326651"
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
